@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery — Friederik Ferdinand</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&family=Material+Symbols+Outlined:wght,FILL@400,0&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="page">
+
+    <!-- Header -->
+    <header class="navbar" id="navbar">
+      <div class="container bar">
+        <a class="brand" href="index.html">
+          <span class="logo-icon"><span class="material-symbols-outlined" style="font-size:18px">code</span></span>
+          <span>Friederik Ferdinand</span>
+        </a>
+        <nav class="nav-links" id="nav-links">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="gallery.html">Gallery</a>
+          <a href="blog.html">Blog</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <div class="nav-right">
+          <a class="nav-cta" href="contact.html">Let's Talk</a>
+          <button class="nav-toggle" id="nav-toggle" aria-label="Menu">
+            <span class="material-symbols-outlined">menu</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- Page Header -->
+      <section class="page-header">
+        <div class="container">
+          <p class="section-label">Portfolio</p>
+          <h1>Gallery</h1>
+          <p>A collection of snapshots and UI frames from recent projects.</p>
+        </div>
+      </section>
+
+      <!-- Gallery Content -->
+      <section class="section">
+        <div class="container">
+          <!-- Filters -->
+          <div class="filter-bar animate-item" data-animate>
+            <div class="chip-row" id="gallery-filters">
+              <button class="chip active" data-filter="all">All</button>
+              <button class="chip" data-filter="Produk">Product</button>
+              <button class="chip" data-filter="Perjalanan">Travel</button>
+              <button class="chip" data-filter="Desain">Design</button>
+              <button class="chip" data-filter="Kode">Code</button>
+            </div>
+          </div>
+
+          <!-- Gallery Grid -->
+          <div class="gallery-grid" id="gallery-grid">
+            <div class="gallery-item animate-item" data-animate data-category="Produk">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBDORubJjxdEYKBjAfuDC-q_kWYY5c2KieenEW5IIM8rPoS1-318q9LzuLzbfMUifbqGWlFTGZWdgveRBODvqoqu6VZvgV7xk-Z22EnCWklu4e4GfXBXNb7nC44wYXhcMPR4Z8udLcGvSVJp341gAGcltq2zkXIypFndO_5zUotGAdHH4OVwXV6LgzJ4Fqk1S2vBJ9OGEbHv9exSXR4Gt8uOJ2T3QsleRkKSk9_QHNbVVBd8n87P2TMuj2TfA3d8rZ9wX-sgFBh3SZ_" alt="E-commerce dashboard" />
+              <div class="gallery-caption">E-commerce Dashboard</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Perjalanan">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuB43cIlmDdTlCFyzNL60RZxZCvWuRj2grXvLHPUKPqyrdOuqM8kqgjjIsu_Z5D5fECIzKD7oUOgc2dqQG6oYgzqQMYgqUnJ46MF-4j3C-5hJt6HepKUyNpanqH2y7J_tD40rsv-h7mFI0JCcywTCIKxCRsj0MKwi57JPbUIDYjPT86sN1zFOjg8DnwyOXuayodGZgMo9qoUZH7yB7pu3iDdpG-Mg8N0KOgVxxeHy_WDltR2uttjL-qlN1fv2i9P-GEkebu-zlrcQcL9" alt="Mount Fuji" />
+              <div class="gallery-caption">Mount Fuji at Dawn</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Kode">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuAiFrfcnWzQHPgb2uVFeD6bwMlplpwWNAtJtn6gFs6nI4Kcp-qu7sfWz1wu3IGcUwN2Wt7nM3cO3dBaMAiNobDF2xiN9ce8__yrBIdjtzn53RGWevUdWq-CInSZujGgEM4idS6Vehb0wAiLpW2fQlDpVvt6MzmZ7fIo1EmbNSLiLcw7P0BiFEELXobGZiiWc5wbMPLkkqvkkySzE4oZOpGrhkjOFLIs5ind5B9ATzZfefmTvQMQUZBp3UwXLGIfEy9DwXB1MT93xzsC" alt="Minimal code workspace" />
+              <div class="gallery-caption">Minimal Code Workspace</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Produk">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCeRlJY5Igp3DOdjDsQ3NzOHOgZC2UTvA3ixWSkZpvmVa3yt-rkEdaGoM-Ozq6KqRjfgc8WoCrWAEy07tfdzfNxhEpZyHXJ991C1Xtl50WzYrnX09IMsGKOEqCmIjGvJhzxX5kPZWaVSzMyLoFPWu4Fpr9PFoCndvr0Ko3Leis_QQ_LXqavzbaYTSzfPP3fHhMzFG4OpR9j9q3pEn6H1HJRWzZMMM_k4enousqpR47jKp3hdsUa4Q9NypWWd1FQRYN35VPjyqQ9bWFA" alt="Finance mobile app" />
+              <div class="gallery-caption">Finance Mobile App</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Desain">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlqjPuouaSYGajaFTkOP5Qyjj8Wlojdv0mBfqu0_Mxgm1i3Sdd8HwPiYNJt4bXo3FdGObxxfJHlF5kia6-oTxV1g9EzITjnRROVBf-yAEWspNUlOLfCzaL6EhsdS0cTj8JxKaejY5ZW7LaO6YWORZNHX-FX_WPbrgTNF3JoIzmwieOMsQ184r1AUNhCqJf2XfdY-nQ3W6KVl-d9RKekzFxdr6leeSj0AmcGVqkpYrwKVZVcKq0cVfI5rDBz6jkAjSLqfkGizNWRf43" alt="Design system" />
+              <div class="gallery-caption">Design System Library</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Perjalanan">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuDwbeBdvabfJjn0wr3RGLvk9XeQwFVAHknWFnDRoWQ0kQ4_xmuGNsURfSi2sFl6tg1-uBnr6bGsbF4swN7b7RbVJhWK05QkKG--v1Q-Byo5KGL2f2y7yQmOQ6Ke-4M9rKhRqbzYs_O1rYcmbP5O1Ti9vPzjbDx_qjNn5rwdMTsTh_oTJA2cChpPWJY0vB0rN2Jdj9wYS5EsKFCCHUv_AH4HNYGspMCh1v-qbg166tgtG03dit5Pdtanufs_YNKClJS9uaj_6kWwyrGq" alt="Team collaboration" />
+              <div class="gallery-caption">Office Collaboration</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Desain">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuC9sMq__6vIq4huOqKpRuifOsMrtpIi3gNp_6XWblkn7nAGUyfHoEjA2Vx2yge7xYxtMkKxjc-vHs3oQeKjZqS9oOIMMNpnbQatiBbEfFFmAICuW6J9toQK9DYqj6remVJ27mGv6qGyUpqPUuw8dNLbtMgFJOlcnn-LaFhrmZyH1xJdgQJSZaQ1CPEidfoNJY1Fn0Sj2GOfP0giirCMteR0ZMUjjx9MiQ_d-A99kvoBri2aBk9omkrNdO4oRzRfhLFjO26_Qm16MLFX" alt="Abstract patterns" />
+              <div class="gallery-caption">Accessibility Patterns</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Kode">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuC1JjGfCTod_RmShZJLZWdKKg6KR6ODTOKyPhDb3sopzKObdKdELlxvIn_MvGknG3bih72vf_1jDiPzhcyEF8jGP1YUQstQh4IzqKFsBlxldo6WjptGkzKRpTM0Jq3BSRFvK7wlK38ExcUo4Js02Shnobv6s9GjYt_F6ip0UJaSWcXKWM4nxkhnQNnHyVBtIom5fYo6jg9vV0VBl2uXrZyBu52lmmBBBgoLmONb2lME7g-XuytSbilUnJBW7wEDR_QNvGKmgjavCPmE" alt="React hooks code" />
+              <div class="gallery-caption">Hooks in Action</div>
+            </div>
+            <div class="gallery-item animate-item" data-animate data-category="Produk">
+              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBsz99s_8QSD266l_uFGlzLzBVmGleUt4q6crBMJu7VBhJ94nCpeQxLiWH75TEmENlUxjoBTXBhtSXgsY73CI2dCS5SYBp7vhyeli4H6M8Ogqenx_18Ax_fT9yNL-8l8e7LnOR8dcR59Ir6IRLRrgmOxvM5SW0ZtxgiNSmaeR1xbDzEfB-CLKAKVCeAfVHr0bau1ln1JuT5Xn7rgZ36Nw8idD8q0yJEqOsuSGFQXEknvIHwqRy1n1z5S8IZIjP-ijeOxNC5Osbs1m-Y" alt="Portrait for about" />
+              <div class="gallery-caption">Portrait Frame</div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-inner">
+          <div>
+            <div class="footer-brand">Friederik Ferdinand</div>
+            <p class="footer-desc">Full-stack developer crafting digital experiences with clarity, minimal design, and reliable delivery.</p>
+            <div class="footer-social">
+              <a href="https://instagram.com" aria-label="Instagram">IG</a>
+              <a href="https://dribbble.com" aria-label="Dribbble">Dr</a>
+              <a href="https://linkedin.com" aria-label="LinkedIn">Li</a>
+            </div>
+          </div>
+          <div class="footer-col">
+            <h4>Pages</h4>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+          </div>
+          <div class="footer-col">
+            <h4>Services</h4>
+            <a href="#">Web Development</a>
+            <a href="#">Web3 Development</a>
+            <a href="#">Crypto Trading</a>
+          </div>
+          <div class="footer-col">
+            <h4>Contact</h4>
+            <a href="mailto:friederikferdinand@gmail.com">friederikferdinand@gmail.com</a>
+            <a href="tel:+6285248554916">+62 852 4855 4916</a>
+            <a href="#">Manado, Indonesia</a>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>&copy; 2026 Friederik Ferdinand. All rights reserved.</span>
+          <a href="#">Privacy Policy</a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
