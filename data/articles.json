@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bitcoin-weekly-budget",
+    "category": "Bitcoin",
+    "date": "05 Mar 2026",
+    "readTime": "11 min read",
+    "title": "Start Bitcoin with a Small Weekly Budget",
+    "summary": "A beginner-friendly way to buy Bitcoin consistently without overthinking the market.",
+    "image": "assets/icon/Article1.png",
+    "content": [
+      { "type": "p", "text": "If you are new to Bitcoin, the biggest trap is believing that success depends on buying at the perfect moment. In reality, most beginners lose confidence because they wait too long, enter too big, or react emotionally to every price move. A small weekly budget is powerful because it removes the pressure to predict the market. Instead of asking, 'Is this the perfect entry?', you build a repeatable routine that protects your cash flow and your psychology at the same time." },
+      { "type": "h2", "text": "Build a Budget Rule That Survives Real Life" },
+      { "type": "p", "text": "Start with an amount you can sustain for at least six months without stress. For some people it is the price of two coffees each week, for others it is a fixed percentage from their monthly savings. The exact number matters less than durability. A good rule is to fund Bitcoin only from surplus money after essentials, debt obligations, and emergency savings are already covered. This prevents a common mistake: being forced to sell early because the money was needed for short-term expenses." },
+      { "type": "p", "text": "Write your rule in one sentence and treat it as policy, not mood. For example: 'I buy every Monday, and I pause only if my emergency fund falls below three months of expenses.' Clear rules reduce decision fatigue and make your behavior consistent across both hype and fear phases. Consistency is what turns a volatile asset into a manageable long-term position." },
+      { "type": "h2", "text": "Use Process Over Prediction" },
+      { "type": "p", "text": "Automation helps because it separates execution from emotion. If your platform supports recurring buys, use it. If not, create a calendar reminder and execute manually at the same time each week. What matters is repetition. You are not trying to win one trade, you are trying to develop cost discipline over many entries. This method does not remove risk, but it smooths your average buying price over time and lowers the chance of one bad timing decision dominating your result." },
+      { "type": "p", "text": "When the market drops, many beginners assume they failed. Usually the opposite is true if your plan is intact. A drop can be painful in the short term, but for a weekly accumulator it often means lower prices for upcoming buys. The key question is not 'Why did it drop?', but 'Did my financial situation or long-term thesis change?' If the answer is no, your process should continue. If the answer is yes, adjust your budget calmly, not impulsively." },
+      { "type": "h2", "text": "Measure Progress Like an Investor" },
+      { "type": "p", "text": "Track three things only: date, amount invested, and total Bitcoin accumulated. Add your average cost if you want, but avoid overcomplicating with too many indicators. Review monthly, not hourly. Frequent checking increases anxiety and usually leads to unnecessary changes. Monthly reviews are enough to confirm that your rule is working and still aligned with your finances." },
+      { "type": "p", "text": "The long-term edge of this strategy is behavioral, not magical. You keep risk controlled, avoid all-in mistakes, and stay active even when headlines are noisy. You do not need to be a trader to build exposure to Bitcoin. You need a plan that is small, boring, and repeatable. Over time, that is exactly what gives beginners confidence and staying power." }
+    ]
+  },
+  {
+    "id": "first-crypto-wallet",
+    "category": "Web3",
+    "date": "28 Feb 2026",
+    "readTime": "11 min read",
+    "title": "Your First Crypto Wallet Without Panic",
+    "summary": "A simple guide to setting up your first wallet safely and confidently.",
+    "image": "assets/icon/Article2.png",
+    "content": [
+      { "type": "p", "text": "The first wallet experience feels scary for many people because every warning sounds absolute: one mistake and funds are gone. That fear is understandable, but it becomes manageable once you focus on the fundamentals. You do not need advanced technical knowledge to set up a wallet safely. You need clear steps, a calm pace, and a habit of verifying before you click." },
+      { "type": "h2", "text": "Start with a Clean, Verifiable Setup" },
+      { "type": "p", "text": "Choose a reputable wallet and download it only from official channels. Before installation, check the publisher name, website domain, and app reviews for signs of impersonation. Many losses happen before users even open the wallet because they install fake apps from ads, copied links, or direct messages. The first layer of security is source verification." },
+      { "type": "p", "text": "Once installed, learn two non-negotiable concepts: public address and recovery phrase. A public address is shareable for receiving funds; a recovery phrase is private and controls ownership. If someone asks for your recovery phrase, they are asking for your money. Keeping this distinction clear eliminates a large percentage of beginner mistakes." },
+      { "type": "h2", "text": "Treat Recovery as a Risk Management Task" },
+      { "type": "p", "text": "Write your recovery phrase offline and store it in a place only you can access. Do not save it in screenshots, cloud notes, chat apps, or email drafts. Digital convenience feels efficient, but it expands your attack surface. Recovery data should be protected like legal documents or financial credentials, because functionally that is what it is." },
+      { "type": "p", "text": "Add practical friction to your wallet: a strong passcode, biometric lock when available, and two-factor authentication for exchange accounts connected to your workflow. None of these controls are perfect alone, but together they reduce the chance that one compromised account leads to a full loss. Think in layers, not single-point defense." },
+      { "type": "h2", "text": "Practice Before You Scale" },
+      { "type": "p", "text": "Run a small test transaction first. Send a tiny amount, confirm the address carefully, and verify network details before approval. This is not just about avoiding mistakes today; it builds operational confidence for future transactions. When people skip this step, they often learn under pressure with larger sums, which is exactly when errors happen." },
+      { "type": "p", "text": "The best wallet setup is boring, repeatable, and free from urgency. If a process feels rushed, stop. If a message uses pressure, ignore it. If details are unclear, verify from official documentation. Your goal is not to look advanced on day one. Your goal is to create a safe personal standard you can follow every time." }
+    ]
+  },
+  {
+    "id": "ai-for-daily-work",
+    "category": "AI",
+    "date": "18 Feb 2026",
+    "readTime": "10 min read",
+    "title": "How AI Can Help Your Daily Work",
+    "summary": "Real examples of using AI for faster writing, planning, and research.",
+    "image": "assets/icon/Article3.png",
+    "content": [
+      { "type": "p", "text": "You do not need to be technical to benefit from AI. The practical value appears when you apply it to repeatable, low-creativity bottlenecks: first drafts, structure, summarization, and routine planning. People often fail with AI because they expect one perfect answer in one prompt. A better approach is to treat AI as a fast collaborator in a short feedback loop: ask, review, refine, then finalize with your own judgment." },
+      { "type": "h2", "text": "Use AI for Throughput, Not Blind Automation" },
+      { "type": "p", "text": "For writing tasks, AI can produce a rough draft in seconds, but the quality jump happens during editing. Give context about audience, purpose, and tone. Ask for two or three variations, then merge the strongest parts. This workflow is faster than writing from zero, while still preserving your voice and standards. The same pattern works for meeting notes, proposal outlines, and project updates." },
+      { "type": "p", "text": "In planning work, AI is useful for converting a long to-do list into prioritized actions with estimated effort. You can ask it to identify dependencies, sequence tasks, and suggest a realistic daily plan. This reduces cognitive load when work feels fragmented. It does not replace your priorities, but it provides a clear first structure that you can adjust based on real constraints." },
+      { "type": "h2", "text": "Improve Decision Quality with Better Inputs" },
+      { "type": "p", "text": "AI output quality is highly sensitive to input quality. Vague prompts create generic responses; detailed prompts create useful drafts. Include your role, desired format, constraints, and definition of success. If you need factual reliability, ask the model to state assumptions and uncertainty clearly. This transforms AI from a text generator into a thinking aid that exposes gaps in your own plan." },
+      { "type": "p", "text": "For research-heavy tasks, use AI to summarize long material first, then drill deeper into sections that matter. This two-stage process saves time while maintaining control of depth. You can also ask AI to translate technical language into plain terms, then reverse-check the simplified version against the original source. This is especially useful when learning new domains quickly without losing accuracy." },
+      { "type": "h2", "text": "Adopt a Human-in-the-Loop Standard" },
+      { "type": "p", "text": "The most reliable way to use AI at work is to separate generation from approval. Let AI generate options, but keep final decisions human. For anything high impact, verify facts, numbers, and references before publishing. This single discipline avoids the biggest risk of AI usage: confident but incorrect output entering real workflows unchecked." },
+      { "type": "p", "text": "Start with one workflow this week, measure time saved, and refine prompts based on results. Sustainable adoption is incremental. When you combine AI speed with human review and domain context, productivity rises without sacrificing quality or accountability." }
+    ]
+  },
+  {
+    "id": "bitcoin-without-stress",
+    "category": "Bitcoin",
+    "date": "01 Feb 2026",
+    "readTime": "11 min read",
+    "title": "Read Bitcoin Price Moves Without Stress",
+    "summary": "Simple habits to protect your money when prices move fast.",
+    "image": "assets/icon/Article4.png",
+    "content": [
+      { "type": "p", "text": "Bitcoin volatility is not only a market problem, it is a behavior problem. People rarely lose control because they lack information; they lose control because decisions are made in emotional states. When prices spike, fear of missing out pushes oversized entries. When prices drop, fear of further loss pushes panic exits. The solution is to build a process that protects decision quality before the market tests you." },
+      { "type": "h2", "text": "Define Risk Before You Enter" },
+      { "type": "p", "text": "Start by separating money into clear buckets: emergency funds, short-term obligations, and long-term risk capital. Bitcoin should come only from the third bucket. If your position depends on rent money, debt payments, or near-term plans, stress is guaranteed and discipline will fail under pressure. Financial structure is the first step to emotional stability." },
+      { "type": "p", "text": "Set a maximum allocation for Bitcoin inside your total portfolio and respect it. This cap is important during euphoric periods when conviction feels highest. Portfolio limits prevent one narrative from dominating your financial future. They also make drawdowns survivable, which is critical because survival, not perfect timing, determines long-term outcomes." },
+      { "type": "h2", "text": "Replace Impulse with Pre-Commitment Rules" },
+      { "type": "p", "text": "Write your rules before entering: how you buy, under what conditions you add, and what would invalidate your thesis. A pre-commitment framework shifts decisions from reaction to policy. For example, you may choose periodic accumulation instead of large one-time buys, and review thesis changes monthly rather than reacting to daily candles." },
+      { "type": "p", "text": "Limit exposure to noise. Constantly checking price feeds and social media creates urgency bias and confirmation bias. Use scheduled review windows and ignore everything outside them. This is not about avoiding information, but curating information frequency so you can think clearly. Better pacing leads to better judgment." },
+      { "type": "h2", "text": "Track Process Quality, Not Just Profit" },
+      { "type": "p", "text": "Keep a simple decision journal with date, action, reason, and invalidation criteria. Over time, this reveals whether your results come from discipline or luck. Most people only track returns, but process tracking is what improves future performance. If a decision was profitable but violated your rule, treat it as a warning, not a success." },
+      { "type": "p", "text": "You do not need to predict every market move to do well with Bitcoin. You need a risk framework that keeps you solvent, a routine that reduces emotional trading, and a review habit that improves decision quality cycle after cycle. Stress decreases when your system is stronger than your mood." }
+    ]
+  },
+  {
+    "id": "token-gating-simple",
+    "category": "Web3",
+    "date": "22 Jan 2026",
+    "readTime": "10 min read",
+    "title": "What Is Token Gating? A Simple Example",
+    "summary": "Understand token-gated communities in plain language with a real-world analogy.",
+    "image": "assets/icon/Article5.png",
+    "content": [
+      { "type": "p", "text": "Token gating is often explained as a technical feature, but at its core it is an access model. A product or community checks your wallet, and if you hold a specific token, certain doors open: private channels, premium tools, event tickets, or early releases. The simplest analogy is a membership card that can be verified automatically online." },
+      { "type": "h2", "text": "Why Token Gating Exists" },
+      { "type": "p", "text": "Traditional memberships usually rely on usernames, passwords, and centralized payment records. Token gating shifts the proof of membership to on-chain ownership. Projects use this model because it can be transparent, programmable, and easier to automate across platforms. Instead of manually approving users, access can update in real time based on wallet state." },
+      { "type": "p", "text": "For communities, this creates a stronger alignment mechanism. Members who hold access tokens often have higher long-term engagement because they are economically and socially invested in the ecosystem. For builders, token gating allows layered offerings: public education for everyone, advanced resources for committed members, and governance access for core contributors." },
+      { "type": "h2", "text": "What Makes a Good Token-Gated Experience" },
+      { "type": "p", "text": "The value proposition must be specific. 'Exclusive access' is too vague on its own. Strong implementations define clear outcomes: monthly strategy calls, curated research, practical templates, partner discounts, or usable product features. When utility is concrete, users can evaluate whether access is worth the cost and risk." },
+      { "type": "p", "text": "A good project also communicates rules clearly: which token qualifies, on which network, what minimum quantity is required, and whether benefits are time-bound. Ambiguity creates confusion and scam risk. Clarity builds trust and reduces support friction, especially for newcomers who are still learning wallet operations." },
+      { "type": "h2", "text": "How Beginners Can Participate Safely" },
+      { "type": "p", "text": "Before buying any token for access, verify official contract addresses from trusted channels, not random posts. Confirm network details, evaluate actual member benefits, and test with small commitments when possible. Avoid approvals you do not understand, and never sign transactions under urgency pressure. Most costly mistakes happen when users act fast without verification." },
+      { "type": "p", "text": "Token gating can be a useful Web3 primitive when utility, governance, and communication are designed well. It is not automatically valuable just because it is on-chain. For users, the right mindset is simple: treat gated access like any paid subscription decision. Evaluate real value, verify legitimacy, and choose based on long-term fit, not hype." }
+    ]
+  },
+  {
+    "id": "why-ai-wrong",
+    "category": "AI",
+    "date": "10 Jan 2026",
+    "readTime": "10 min read",
+    "title": "Why AI Chatbots Sometimes Get Things Wrong",
+    "summary": "A non-technical guide to AI mistakes and easy ways to get more reliable answers.",
+    "image": "assets/icon/Article6.png",
+    "content": [
+      { "type": "p", "text": "AI chatbots can produce answers that sound polished, structured, and confident, yet still be wrong in important ways. This is frustrating because users naturally associate fluency with accuracy. To use AI effectively, it helps to understand that language quality and factual reliability are different dimensions. A well-written response is not automatically a true response." },
+      { "type": "h2", "text": "Why Confident Mistakes Happen" },
+      { "type": "p", "text": "Most chatbots generate text by predicting likely next tokens based on patterns learned from large datasets. They are optimized for coherence, not guaranteed truth. When the model lacks precise context, current data, or domain constraints, it may fill gaps with plausible statements. This behavior is often called hallucination, but in practice it is better seen as probabilistic text generation under uncertainty." },
+      { "type": "p", "text": "Errors become more frequent when prompts are vague, when tasks require exact citations, or when questions combine multiple assumptions. The model may also inherit bias or ambiguity from its training material. None of this means AI is useless. It means users need operating discipline: better prompts, explicit constraints, and verification for high-impact decisions." },
+      { "type": "h2", "text": "How to Increase Reliability in Daily Use" },
+      { "type": "p", "text": "Start by providing context: your goal, audience, constraints, and expected output format. Ask the model to separate facts from assumptions and to show reasoning steps when relevant. If the topic is technical, request sources or ask for uncertainty labels such as 'high confidence' or 'needs verification.' This forces the response into a more auditable structure." },
+      { "type": "p", "text": "Use iterative prompting rather than one-shot trust. First, get a draft answer. Second, challenge it with counter-questions. Third, ask the model to identify potential failure points. This adversarial loop often improves answer quality significantly. For critical domains like finance, health, legal, or security, always cross-check with primary sources or qualified professionals before acting." },
+      { "type": "h2", "text": "Treat AI as a Copilot, Not an Authority" },
+      { "type": "p", "text": "The strongest use case for AI is acceleration: brainstorming, summarizing, outlining, and drafting. The weakest use case is unverified final authority. A practical rule is simple: the higher the consequence, the higher the verification standard. Human accountability should scale with decision impact." },
+      { "type": "p", "text": "When used with this mindset, AI becomes a high-leverage assistant rather than a risk multiplier. You keep the speed benefits while reducing error exposure. In other words, productivity comes from pairing model output with human judgment, not replacing judgment with model confidence." }
+    ]
+  }
+]
